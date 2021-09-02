@@ -1,1 +1,1 @@
-# Windows-screensavers
+These are system .scr files.
